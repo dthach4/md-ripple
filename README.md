@@ -3,6 +3,8 @@
 MDRipple lets you add the Material Design ripple effect to any component you
 want in a very simple way!
 
+[View a demo of this module here!](https://dthach4.github.io/md-ripple/demo/)
+
 ## Installation
 
 You need jQuery>1.7 in order to use this module.
